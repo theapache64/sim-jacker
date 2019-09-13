@@ -13,7 +13,7 @@ but how can I form a group ? So I created this. ;)
 
 ### Join the search 🔍
 
-If you found anything related to simjacking you can join the group by post it [here](https://github.com/theapache64/sim-jacker/issues/1). You can also join the group even If you don't found anything. :yum:
+If you found anything related to simjacking you can join the group by post it [here](https://github.com/theapache64/sim-jacker/issues/1). You can also join the group even If you didn't found anything. :yum:
 
 ### Supports
 
